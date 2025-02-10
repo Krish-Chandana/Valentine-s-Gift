@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.main-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    font-size: 20px;
+    margin-top: 40px; 
+    font-weight: 900;  
+}
+
+.text1{
+    color: pink;
+    margin-left: 40px;
+}
+
+.text2{
+    color: brown;
+}
